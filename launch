@@ -1,0 +1,5 @@
+if getgenv().mobile then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptSkiddie69/launcher/refs/heads/main/Protected_6303967690278279.txt'))()
+else
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptSkiddie69/launcher/refs/heads/main/Protected_6163857786510148.txt'))()
+end
