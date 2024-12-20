@@ -1,0 +1,9 @@
+local data = {
+    Version = "1.0.5",
+    Supported = getidentity() > 2,
+    ChangeLogs = {
+        {Title = "Added Textbox", Description = "Textbox for ammo data inserter"},
+        {Title = "Added safeguards", Description = "SafeGuard for calls"}
+    }
+}
+return data
