@@ -1,0 +1,9 @@
+local data = {
+    Version = "1.0.5",
+    Supported = getidentity() > 2,
+    ChangeLogs = {
+        {Title = "Added httpspy", Description = "Added httpspy"},
+        {Title = "Added safeguards", Description = "Solara support"}
+    }
+}
+return data
