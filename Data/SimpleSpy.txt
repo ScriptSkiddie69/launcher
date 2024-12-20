@@ -1,5 +1,5 @@
 local data = {
-    Version = "1.0.5",
+    Version = "1.0.2",
     Supported = getidentity() > 2,
     ChangeLogs = {
         {Title = "Added httpspy", Description = "Added httpspy"},
